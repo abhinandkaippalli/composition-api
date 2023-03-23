@@ -1,0 +1,22 @@
+{
+  "wonders": [
+    {
+      "id": 2,
+      "name": "Great Wall Of China",
+      "location": "China",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1200px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+    },
+    {
+      "name": "Dover Castle",
+      "location": "England",
+      "imageUrl": "https://www.craghoppers.com/community/wp-content/uploads/2020/08/castle.jpg",
+      "id": 4
+    },
+    {
+      "name": "India Gate",
+      "location": "New Delhi, India",
+      "imageUrl": "https://static.trip101.com/paragraph_media/pictures/001/817/876/large/travel-4813658_1280.jpg?1583142928",
+      "id": 5
+    }
+  ]
+}
